@@ -1,4 +1,5 @@
 # Guess The Number
+  https://ritwikchawla.github.io/Guess-The-Number/
 #### A mini game based on assumption using HTML, CSS and JavaScript.
 
 This is a game based on assumption where computer will genearte a number between 1 to 100. User have to guess a number between this range. User will receive message regarding assumption whether it is low or high and according to that, user can improve the guess.
